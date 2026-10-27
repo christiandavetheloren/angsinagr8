@@ -1,0 +1,17 @@
+{
+  "name": "Ang Sinag | Eastern Samar National Comprehensive High School",
+  "short_name": "Ang Sinag",
+  "description": "School online publication PWA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8f5",
+  "theme_color": "#075541",
+  "icons": [
+    {
+      "src": "ang-sinag-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
